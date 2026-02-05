@@ -3,7 +3,7 @@
 Também pode consultar este README em português. [Click here](README-PT.md)
 
 Project made by:
-[Guilherme Soares](https://github.com/guimbreon) && [Vitória Correia](https://github.com/vitoriateixeiracorreia)
+[Guilherme Soares](https://github.com/gcsoares24) && [Vitória Correia](https://github.com/vitoriateixeiracorreia)
 ---
 ## Game Description
 
